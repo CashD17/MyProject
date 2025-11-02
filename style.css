@@ -1,10 +1,74 @@
-p {
-    color: blue;
-
-    background-color: aqua;
+.first {
+    background-color: red;
+    color: green;
+    height: 60px;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-weight: 900;
+    border-left: 20px double green;
+    border-bottom: 10px solid blue;
+    border-right: 17px dashed blue;
 }
 
-h1 {
-    color: #fd0000;
-    background-color: aqua;
+
+.two {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.three {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.four {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 10px;
+    margin-left: 190px;
+}
+
+.five {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 10px;
+    margin-left: 500px;
+
+}
+
+.firstp {
+    margin-top: 10px;
+    color: red;
+}
+
+.sec {
+     margin-top: 20px;
+    color: green;
+}
+
+.third {
+     margin-top: 20px;
+    color: blue;
+}
+
+.fourth {
+     margin-top: 20px;
+    color: red;
+}
+   
+
+.films{
+    margin-left: 400px;
+    margin-top: 100px;
 }
