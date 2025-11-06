@@ -1,74 +1,57 @@
-.first {
-    background-color: red;
-    color: green;
-    height: 60px;
-    font-size: 30px;
-    padding-left: 50px;
+.pone {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: 3px solid red;
+    height: 40px;
     padding-top: 20px;
-    font-weight: 900;
-    border-left: 20px double green;
-    border-bottom: 10px solid blue;
-    border-right: 17px dashed blue;
+    padding-left: 20px;
 }
 
-
-.two {
-    background-color: blue;
-    height: 100px;
-    width: 100px;
-    border-radius: 100%;
+.ptwo {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: 3px solid black;
+    height: 110px;
+    width: 300px;
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 50px;
 }
 
-.three {
-    background-color: blue;
-    height: 100px;
-    width: 100px;
-    border-radius: 100%;
-    margin-top: 10px;
-    margin-left: 100px;
+.pthree {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: 3px solid black;
+    height: 90px;
+    width: 300px;
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 45px;
 }
 
-.four {
-    background-color: blue;
-    height: 100px;
-    width: 100px;
-    border-radius: 100%;
-    margin-top: 10px;
-    margin-left: 190px;
+.pfour {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: 3px dashed red;
+    height: 90px;
+    width: 600px;
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 45px;
 }
 
-.five {
-    background-color: blue;
-    height: 100px;
-    width: 100px;
-    border-radius: 100%;
-    margin-top: 10px;
-    margin-left: 500px;
-
-}
-
-.firstp {
-    margin-top: 10px;
-    color: red;
-}
-
-.sec {
-     margin-top: 20px;
-    color: green;
-}
-
-.third {
-     margin-top: 20px;
-    color: blue;
-}
-
-.fourth {
-     margin-top: 20px;
-    color: red;
-}
-   
-
-.films{
-    margin-left: 400px;
-    margin-top: 100px;
+.pfive {
+     background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: 3px dashed red;
+    height: 90px;
+    width: 540px;
+    margin-left: 10px;
+    padding-left: 60px;
+    padding-top: 45px;
 }
